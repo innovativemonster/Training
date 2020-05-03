@@ -1,0 +1,237 @@
+﻿body {
+    padding: 0px;
+    margin: 0px;
+    color: #5F7a77;
+    font: 13px/19px Arial, Helvetica,sans-serif;
+    background: url('images/imgonline-com-ua-Resize-ruJluwN5cT.jpg') 0 123px repeat-x #ffffff;
+  
+}
+#topPan {
+    width: 778px;
+    height: 66px;
+    background: url('images/imgonline-com-ua-Resize-SndJuGRMc1CMxu.png') 20px 25px no-repeat #fff;
+
+    color: #828282;
+    position: relative;
+    margin:0 265px;
+ 
+}
+#topPan img.logo{
+    width:136px;
+    height:51px;
+    position:absolute;
+    top:12px;
+    margin-left:-220px;
+
+}
+*{
+    padding:0px;
+    margin:0px;
+}
+#HeaderPan {
+    width: 686px;
+    height: 163px;
+    background: url('images/just.jpg') 0 0 no-repeat;
+    position: relative;
+    margin: 0 auto;
+    padding: 11px 0 0 92px;
+   
+}
+    #HeaderPan ul.leftmenu {
+        margin-left: -63px;
+        width:87px;
+    }
+        #HeaderPan ul.leftmenu li {
+            width: 82px;
+            height: 27px;
+            margin-bottom: 1em;
+            border-bottom: 1px groove #ff0000;
+         
+        }
+        #HeaderPan ul.leftmenu li a {
+            width:82px;
+            height:27px;
+            display:block;
+            line-height:22px;
+            text-decoration:none;
+            padding:0 0 0 20px;
+            color:black;
+        }
+        #HeaderPan ul.leftmenu li.img-sneakers {
+            background: url('images/иконка кроссовок.jpg') no-repeat;
+            padding-left: 15px;
+            list-style: none;
+        }
+        #HeaderPan ul.leftmenu li.clients {
+            background: url('images/о нас.png') no-repeat;
+            padding-left: 15px;
+            list-style: none;
+        }
+            #HeaderPan ul.leftmenu li.home {
+                background: url('images/домой.jpg') no-repeat;
+                padding-left: 15px;
+                list-style: none;
+                background-position-y: -1px;
+            }
+        #HeaderPan ul.leftmenu li.wear {
+            background: url('images/верх.png') no-repeat;
+            padding-left: 15px;
+            list-style: none;
+            background-position-y:-2px;
+        }
+        #HeaderPan ul.leftmenu li a:hover{
+            color:#305E5C;
+            line-height:22px;
+            text-decoration:none;
+            padding:0 0 0 20px;
+        }
+            #HeaderPan ul.leftmenu li.wear:hover {
+                background: url('images/верх крас.jpg') no-repeat;
+                padding-left: 15px;
+                list-style: none;
+                background-position-y: -2px;
+           
+            }
+            #HeaderPan ul.leftmenu li.img-sneakers:hover {
+                background: url('images/кроссовки ред.jpg') no-repeat;
+                padding-left: 15px;
+                list-style: none;
+             
+            }
+
+            #HeaderPan ul.leftmenu li.clients:hover {
+                background: url('images/о нас красная.png') no-repeat;
+                padding-left: 15px;
+                list-style: none;
+             
+            }
+
+            #HeaderPan ul.leftmenu li.home:hover {
+                background: url('images/дом красная.png') no-repeat;
+                padding-left: 15px;
+                list-style: none;
+                background-position-y: -1px;
+            
+            }
+            #HeaderPan ul.leftmenu li.clients{
+                border-bottom:none;
+            }
+            /* Body panel*/
+
+#bodypan {
+    width: 786px;
+    position: relative;
+    margin: 0 190px;
+    padding: 22px 0 0 92px;
+}
+    #bodypan ul {
+        list-style: square;
+        width:114px;
+    }
+        #bodypan ul li {
+            height: 24px;
+            width: 114px;
+            margin: 0 20px;
+        }
+
+    #leftpan{
+        width:114px;
+        float:left;
+    }
+    #leftpan h2{
+        width:114px;
+        height:34px;
+        background:#fff;
+        color:#5F7A77;
+        font-size:18px;
+        line-height:34px;
+    }
+        #leftpan ul li a {
+            width:132px;
+            height:24px;
+            display:block;
+            color:black;
+            text-decoration:none;
+            line-height:24px;
+           
+        }
+        #leftpan ul li a:hover{
+            color:red;
+            text-decoration:none;
+        }
+#rigtPan {
+
+    color:black;
+    width:495px;
+    float:left;
+    border-left:1px solid #ff0000;
+    margin:5px 20px 0;
+    padding:0 20px;
+  
+}
+    #rigtPan p.more {
+        margin-left: 0px;
+        width: 502px;
+        height: 25px;
+        float: left;
+        background: url('images/red line.png') 0 0px repeat-x;
+        padding: 0 0 20px 0;
+    }
+
+    #rigtPan p{
+        padding:0 0 10px 0;
+    }
+    .justify{
+        text-align:justify;
+    }
+#rigtPan p.more a {
+    width: 92px;
+    height: 21px;
+    display: block;
+    color: black;
+    line-height: 21px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: -3px 0px 0px 328px;
+    padding: 4px 0 0 50px;
+    background: url('images/звездочка.png') 0 0 no-repeat #fff;
+}
+    #rigtPan p.more a:hover {
+        color: red;
+        text-decoration: none;
+        background: url('images/штучка.png') 0 0 no-repeat #fff;
+    }
+#footermainPan {
+    height: 103px;
+    background: url('images/imgonline-com-ua-Resize-ruJluwN5cT - копия.jpg')0 0 repeat-x;
+    color: black;
+    position: relative;
+    margin: 0 auto;
+    clear: both;
+    padding: 0px 0 0;
+    font: 13px/20px "Trebuchet MS", Aria, Helvetica, sans-serid;
+}
+#footerPan {
+    width: 778px;
+    position: relative;
+    margin: 0 295px;
+}
+    #footerPan ul {
+        width: 608px;
+        height: 20px;
+        position: relative;
+        margin: 0 auto;
+        list-style: none;
+    }
+    #footerPan li {
+        float:left;
+    }
+    #footerPan li a{
+        padding:0 10px 0;
+        color:black;
+     
+        text-decoration:none;
+        font-size:13px;
+  
+    }
+ 
