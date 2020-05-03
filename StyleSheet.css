@@ -3,7 +3,7 @@
     margin: 0px;
     color: #5F7a77;
     font: 13px/19px Arial, Helvetica,sans-serif;
-    background: url('images/imgonline-com-ua-Resize-ruJluwN5cT.jpg') 0 123px repeat-x #ffffff;
+    background: url('images/imgonline-com-ua-Resize-ruJluwN5cT.jpg') 0 66px repeat-x #ffffff;
   
 }
 #topPan {
@@ -13,7 +13,7 @@
 
     color: #828282;
     position: relative;
-    margin:0 265px;
+    margin:0 300px;
  
 }
 #topPan img.logo{
@@ -31,10 +31,10 @@
 #HeaderPan {
     width: 686px;
     height: 163px;
-    background: url('images/just.jpg') 0 0 no-repeat;
+    background: url('images/just.jpg') 30px 0px no-repeat;
     position: relative;
     margin: 0 auto;
-    padding: 11px 0 0 92px;
+    padding: 11px 0 0 120px;
    
 }
     #HeaderPan ul.leftmenu {
